@@ -1,11 +1,11 @@
-# Diversity & Inversion
+# Diversity & Inclusion
 
 ![img_alt](https://github.com/lavanyareddy2310/Task3-Diversity-and-Inclusion/blob/b1b99541b9ff085432c0d3e2fb81ffd9ef73e86b/Diversity%20%26%20Inclusion.png)
 ![img_alt](https://github.com/lavanyareddy2310/Task3-Diversity-and-Inclusion/blob/b1b99541b9ff085432c0d3e2fb81ffd9ef73e86b/Diversity%20%26%20Inclusion1.png)
 
 # Problem Statement:
 
-In modern organizations, understanding employee dynamics and managing human resources effectively are critical for achieving sustainable growth and diversity. This HR Analytics dashboard addresses key challenges related to gender balance, employee turnover, promotions, and performance evaluation. By leveraging Power BI, this project aims to provide HR managers with actionable insights into workforce demographics, gender representation, and promotion patterns to guide diversity and inclusion initiatives, talent retention strategies, and overall performance management.
+HR Analytics dashboard addresses key challenges related to gender balance, employee turnover, promotions, and performance evaluation. By leveraging Power BI, this project aims to provide HR managers with actionable insights into workforce demographics, gender representation, and promotion patterns to guide diversity and inclusion initiatives, talent retention strategies, and overall performance management.
 
 # Key Features:
 
